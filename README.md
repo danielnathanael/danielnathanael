@@ -5,9 +5,5 @@ Technical:
   - [Create and Deploy LINE Chatbot](https://github.com/danielnathanael/danielnathanael/blob/main/create-and-deploy-line-chatbot.md)
   - [Simple Persistent MySQL in Docker using Docker Compose](https://github.com/danielnathanael/danielnathanael/blob/main/simple-persistent-mysql-in-docker.md)
   - [Make Laravel Excel Import faster using Maatwebsite](https://github.com/danielnathanael/danielnathanael/blob/main/make-laravel-excel-import-faster-using-maatwebsite.md)
-  - [HTTP Status Codes (Indonesian Version)](https://github.com/danielnathanael/danielnathanael/blob/main/indonesian-http-status-codes.md)
-
-Uncategorized:
-  - [2 years of being a Bluejack](https://github.com/danielnathanael/danielnathanael/blob/main/2-years-of-being-a-bluejack.md)
 
 
